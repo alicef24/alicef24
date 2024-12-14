@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @alicef24
+- 👀 I’m interested in web development
+- 🌱 I’m currently learning Java
+- 😄 Pronouns: she/her
